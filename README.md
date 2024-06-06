@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 ```
 command line program for job search
 ```
-#Requirments
+# Requirments
 ```
 pip install beautifulsoup4
 ```
